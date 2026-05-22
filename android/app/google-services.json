@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845010457996",
+    "project_id": "millennium-hub",
+    "storage_bucket": "millennium-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845010457996:android:f6364277c67505ce0eb2a9",
+        "android_client_info": {
+          "package_name": "com.example.life_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpWRSqFSvJKJbgLCLEdcqWSdDIRjh2--Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
